@@ -23,7 +23,7 @@ function setup() {
 
 function draw() {
     rectMode(CENTER);
-    background("yellow");
+    background("black");
     dustbin.display();
     paper.display();
   }
